@@ -167,7 +167,7 @@ Simplified checkout.
 Clear payment information.
 Step-by-step order tracking.
 Improved readability and accessibility.
-OUTPUT
+OUTPUT :
 The following screens are designed based on the heuristic evaluation:
 
 Home Screen
@@ -179,3 +179,4 @@ Cart Screen
 Checkout Screen
 Payment Screen
 Order Tracking Screen
+<img width="485" height="602" alt="image" src="https://github.com/user-attachments/assets/dab2fdb6-07de-4f2a-a1e5-bcba55f8180b" />
